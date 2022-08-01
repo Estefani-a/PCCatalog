@@ -1,0 +1,6 @@
+framework module Pods_PCCatalogTests {
+  umbrella header "Pods-PCCatalogTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
